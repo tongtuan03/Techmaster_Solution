@@ -1,0 +1,5 @@
+# ninja log v5
+671	751	7579674169766454	D:/CODE_FLUTTER/equation/build/app/intermediates/cxx/Debug/3m166f2t/obj/armeabi-v7a/libnative_add.so	b609b30ca950968c
+0	667	7579674168878410	CMakeFiles/native_add.dir/D_/CODE_FLUTTER/equation/lib/ffi/solve_equation.cpp.o	cc65235ae6cef5dc
+0	697	7579689221215338	CMakeFiles/solve_equation.dir/D_/CODE_FLUTTER/equation/lib/ffi/solve_equation.cpp.o	36328c9e95e4a611
+697	791	7579689222180364	D:/CODE_FLUTTER/equation/build/app/intermediates/cxx/Debug/3m166f2t/obj/armeabi-v7a/libsolve_equation.so	4ec2aec2f46d1ba4

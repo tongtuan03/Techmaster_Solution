@@ -1,0 +1,5 @@
+# ninja log v5
+1	854	7579674146800400	CMakeFiles/native_add.dir/D_/CODE_FLUTTER/equation/lib/ffi/solve_equation.cpp.o	1a17f1142d1411d2
+858	936	7579674147705588	D:/CODE_FLUTTER/equation/build/app/intermediates/cxx/Debug/3m166f2t/obj/arm64-v8a/libnative_add.so	1cc022f4c31b18e4
+0	1186	7579689208903929	CMakeFiles/solve_equation.dir/D_/CODE_FLUTTER/equation/lib/ffi/solve_equation.cpp.o	284a23a72da88bb9
+1186	1310	7579689210212789	D:/CODE_FLUTTER/equation/build/app/intermediates/cxx/Debug/3m166f2t/obj/arm64-v8a/libsolve_equation.so	6dabc8cef2cbcd6c
